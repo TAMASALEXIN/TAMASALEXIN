@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TAMASALEXIN
 - 👀 I’m interested in computers, programming, gaming and nature
 - 🌱 I’m currently learning IT for Data analytics at IBS Budapest
-- 🤓 I am quite confident in Python, and familiar with Flutter.
+- 🐍 I am quite confident in Python, and familiar with Flutter and React.
 - 
 
 <!---
